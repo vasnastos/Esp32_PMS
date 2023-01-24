@@ -8,7 +8,7 @@
 
 2. Install the ESP-IDF to your Computer. This is development environment for the ESP32 and can be found in **[ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/index.html)**
 
-3. Install the Xtensa toolchain that required to build the Rust code for ESP32 and can be found in **[Xtensa]s(https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/linux-setup.html#install-the-xtensa-toolchain)**
+3. Install the Xtensa toolchain that required to build the Rust code for ESP32 and can be found in **[Xtensa](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/linux-setup.html#install-the-xtensa-toolchain)**
 
 4. Install the rust-esp32 crate for developing ESP32 using Rust which can be found in **[rust-esp32-crate/lnk](https://github.com/thejpster/rust-esp32)**
 

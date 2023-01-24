@@ -36,7 +36,7 @@
 This command will compile the code in release mode and flash it to the ESP32.
 
 
-# Project 1 description
+# Project 1 
 
 **Design and implement an application that performs the dimming of two LEDs to be connected to the ESP32. The red LED's de-activation will be started by using button switch SW1. Similarly the start of the green led dimming will be done using button switch SW2. When starting the application both LEDs shall have the same frequency of dimming. By double clicking on SW2 the flashing frequency of the green led will be doubled. Students are required to develop and document the application. The development includes: Specification of the application, design of connections description of the algorithm, quoting (and commenting) code, debugging strategy and results, overall documentation, reporting problems and suggestions for improvements. In the first application, approach the application using simple (non-optimized) code with delay loops (without using the delay() function).**
 

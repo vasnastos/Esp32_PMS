@@ -4,11 +4,11 @@
 
 ### DEPENDENCIES
 
-1. Install Rust language on your computer from **[installer](https://www.rust-lang.org/learn/get-started)**
+1. Install Rust language on your computer from **[installer/lnk](https://www.rust-lang.org/learn/get-started)**
 
-2. Install the ESP-IDF to your Computer. This is development environment for the ESP32 and can be found in **[ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/index.html)**
+2. Install the ESP-IDF to your Computer. This is development environment for the ESP32 and can be found in **[ESP-IDF/lnk](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/index.html)**
 
-3. Install the Xtensa toolchain that required to build the Rust code for ESP32 and can be found in **[Xtensa](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/linux-setup.html#install-the-xtensa-toolchain)**
+3. Install the Xtensa toolchain that required to build the Rust code for ESP32 and can be found in **[Xtensa/lnk](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/linux-setup.html#install-the-xtensa-toolchain)**
 
 4. Install the rust-esp32 crate for developing ESP32 using Rust which can be found in **[rust-esp32-crate/lnk](https://github.com/thejpster/rust-esp32)**
 
@@ -17,7 +17,7 @@
 
 1. Create a new  directory 'project_name' using the esp32-rs template from the rust-esp32 crate. Use the following command
 
-`cargo new --template esp32-rs project_name`
+    `cargo new --template esp32-rs project_name`
 
 **Next steps**
 

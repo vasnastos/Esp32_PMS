@@ -28,10 +28,10 @@
 
 * Build and flash the code to your ESP32 using the following command
 
-```
-    $ cd project_name
-    $ cargo esp flash --release
-```
+    ```
+        $ cd project_name
+        $ cargo esp flash --release
+    ```
 
 This command will compile the code in release mode and flash it to the ESP32.
 

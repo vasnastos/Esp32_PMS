@@ -49,7 +49,7 @@ This command will compile the code in release mode and flash it to the ESP32.
 **[Assignment-2 solution](./assignment_2)**
 
 # Project files
-* **[Assignment-report](https://github.com/vasnastos/Esp32_PMS/blob/main/vasileios_nastos_137_panagiotis_koromilias_150_sensors_semester_assignment.pdf)**
+* **[Assignment-Report](https://github.com/vasnastos/Esp32_PMS/raw/main/vasileios_nastos_137_panagiotis_koromilias_150_sensors_semester_assignment.pdf)**
 * **[Assignemnt-Presentation](https://github.com/vasnastos/Esp32_PMS/raw/main/vasileios_nastos_137_panagiotis_koromilias_150_sensors_semester_presentation.pdf)**
 
 

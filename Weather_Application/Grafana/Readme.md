@@ -16,6 +16,7 @@
 4. Login to Grafana
 
 **User: admin**
+
 **Password:weatherAppIOT**
 
 5. 

@@ -24,7 +24,6 @@ ESP8266WiFiMulti wifimulti;
 InfluxDBClient client(INFLUXDB_URL, INFLUXDB_ORG, INFLUXDB_BUCKET, INFLUXDB_TOKEN, InfluxDbCloud2CACert);
 Point sensor(INFLUXDB_BUCKET);
 
-
 void wifi_setup()
 {
     WiFi.mode(WIFI_STA);

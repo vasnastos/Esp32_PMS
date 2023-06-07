@@ -2,16 +2,16 @@
 
 ### Connect ESP32C3 to Arduino IDE
 
-    1. Download Arduino IDE [https://www.arduino.cc/en/software](https://www.arduino.cc/en/software)
-    2. Install us-to-Serial Bridge Driver [./CP210x_Windows_Drivers.zip](./CP210x_Windows_Drivers.zip)
-    3. Go to File>Preferences and Fill in the Additional Board Manager URLs with
-        ```
-            https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
-        ```
-    4. Now navigate to Tools > Board > Boards Manager and filter your search by entering ‘esp32‘. Look for ESP32 by Espressif Systems. Click on that entry, and then choose Install.
-    5. After installing the ESP32 Arduino Core, restart your Arduino IDE and navigate to Tools > Board to ensure you have ESP32 boards available.
+1. Download Arduino IDE [https://www.arduino.cc/en/software](https://www.arduino.cc/en/software)
+2. Install us-to-Serial Bridge Driver [./CP210x_Windows_Drivers.zip](./CP210x_Windows_Drivers.zip)
+3. Go to File>Preferences and Fill in the Additional Board Manager URLs with
+    ```
+        https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+    ```
+4. Now navigate to Tools > Board > Boards Manager and filter your search by entering ‘esp32‘. Look for ESP32 by Espressif Systems. Click on that entry, and then choose Install.
+5. After installing the ESP32 Arduino Core, restart your Arduino IDE and navigate to Tools > Board to ensure you have ESP32 boards available.
 
-    ![board_selection](./Figures/board_selection.png)
+![board_selection](./Figures/board_selection.png)
 
 
 ### Create InfluxDB bucket
